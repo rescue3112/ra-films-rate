@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/ra-films-rate/static/css/main.bca5a941.css",
+    "main.js": "/ra-films-rate/static/js/main.f72d016d.js",
+    "static/js/787.b26bb666.chunk.js": "/ra-films-rate/static/js/787.b26bb666.chunk.js",
+    "index.html": "/ra-films-rate/index.html",
+    "main.bca5a941.css.map": "/ra-films-rate/static/css/main.bca5a941.css.map",
+    "main.f72d016d.js.map": "/ra-films-rate/static/js/main.f72d016d.js.map",
+    "787.b26bb666.chunk.js.map": "/ra-films-rate/static/js/787.b26bb666.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.bca5a941.css",
+    "static/js/main.f72d016d.js"
+  ]
+}

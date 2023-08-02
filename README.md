@@ -1,4 +1,6 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/s68jwh8tkd8p0ngm?svg=true)](https://ci.appveyor.com/project/rescue3112/ra-films-rate)
 
+https://rescue3112.github.io/ra-films-rate/
 
 Рейтинг фильмов
 ===
